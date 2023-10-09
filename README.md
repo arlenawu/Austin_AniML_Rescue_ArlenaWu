@@ -9,14 +9,26 @@ The files included in this repository are the ones that I worked on. With the ex
 
 
 # Exploratory Data Analysis
+Relevant Files
+- Austin_AniML_EDA.ipynb
+- intakes_outcomes_EDA.xlsx
 
 
 
 # Cleaning and Preparing the Data for Machine Learning
+Relevant Files
+- merged_csv_cleaning.ipynb
 
 
 
 # Building and Testing the Models
+Relevant Files
+- Logistic_Features_Cats_Dogs.ipynb
+- Machine_Learning.ipynb
+- Sampling_Euthanasia.ipynb
+- Top_Features_Cats_Dogs.ipynb
+- XGBoost_Features_Cats_Dogs.ipynb
+
 
 
 
